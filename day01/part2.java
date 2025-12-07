@@ -4,7 +4,7 @@ import java.nio.file.Paths;
 import java.util.*;
 import java.util.AbstractMap.SimpleEntry;
 
-public class part1 {
+public class part2 {
 
     public static int circularAdd(int current, int delta) {
         int result = (current + delta) % 100;
