@@ -42,16 +42,16 @@ Advent of Code is a series of daily programming challenges that test problem-sol
 Each quest's solution is organized by parts:
 ```bash
 # Quest 1
-javac Quest1/part1.java && java -cp Quest1 part1
-javac Quest1/part2.java && java -cp Quest1 part2
+javac day01/part1.java && java -cp day01 part1
+javac day01/part2.java && java -cp day01 part2
 
 # Quest 2
-javac Quest2/part1.java && java -cp Quest2 part1
-javac Quest2/part2.java && java -cp Quest2 part2
+javac day02/part1.java && java -cp day02 part1
+javac day02/part2.java && java -cp day02 part2
 
 # Quest 3
-javac Quest3/part1.java && java -cp Quest3 part1
-javac Quest3/part2.java && java -cp Quest3 part2
+javac day03/part1.java && java -cp day02 part1
+javac day03/part2.java && java -cp day02 part2
 ```
 
 ## 📊 Performance Highlights
